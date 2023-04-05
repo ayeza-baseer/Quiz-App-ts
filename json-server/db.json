@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "firstName": "Ayeza",
+      "lastName": "Baseer",
+      "email": "ayezabaseerawan@gmail.com",
+      "password": "fypshehla2022",
+      "id": 1
+    },
+    {
+      "firstName": "Ayesha",
+      "lastName": "Baseer",
+      "email": "ayeshakashaf@gmail.com",
+      "password": "sssssssssssssss",
+      "id": 2
+    },
+    {
+      "firstName": "saraa",
+      "lastName": "ali khan",
+      "email": "sara@gmail.com",
+      "password": "sara123",
+      "id": 3
+    }
+  ]
+}
